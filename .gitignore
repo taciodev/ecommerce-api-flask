@@ -1,0 +1,21 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite
+
+# Arquivos de configuração locais
+instance/
+
+# Arquivos de build
+.build/
